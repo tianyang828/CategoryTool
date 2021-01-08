@@ -1,0 +1,6 @@
+framework module CategoryTool {
+  umbrella header "CategoryTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CategoryTool",
+  "version": "0.1.0",
+  "summary": "A short description of CategoryTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tianyang/CategoryTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tianyang": "tianyang@huatu.com"
+  },
+  "source": {
+    "git": "https://github.com/tianyang/CategoryTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CategoryTool/Classes/**/*"
+}

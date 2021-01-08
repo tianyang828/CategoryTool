@@ -7,7 +7,7 @@
 //
 
 #import "DRBViewController.h"
-
+#import "NSString+Extension.h"
 @interface DRBViewController ()
 
 @end
@@ -17,6 +17,12 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    if ([@"asd" isPhoneNumber]) {
+        NSLog(@"是");
+    }else{
+        NSLog(@"不是");
+    }
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

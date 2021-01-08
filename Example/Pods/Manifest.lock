@@ -1,0 +1,16 @@
+PODS:
+  - CategoryTool (0.1.0)
+
+DEPENDENCIES:
+  - CategoryTool (from `../`)
+
+EXTERNAL SOURCES:
+  CategoryTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CategoryTool: 5a903d2bf7fa6df2c84702395635cb3c9200db90
+
+PODFILE CHECKSUM: 18b25a921d503519604775ea5a2fce52a6f15951
+
+COCOAPODS: 1.7.2
